@@ -39,10 +39,10 @@ $ pip install lolcat
 $ pip install rich
 $ pip install bs4
 $ pkg install git
-$ rm -rf RANDOM
-$ git clone --depth=1 https://github.com/Sagor-BCZ/RANDOM
-$ cd RANDOM
-$ python PRO.py
+$ rm -rf WEB-INFO
+$ git clone --depth=1 https://github.com/Sagor-BCZ/WEB-INFO
+$ cd WEB-INFO
+$ bash WEB_in.sh
 
 
 ```
@@ -51,7 +51,7 @@ $ python PRO.py
 # Single Command 
 
 ```
-pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pkg install git ; git clone --depth=1 https://github.com/Sagor-BCZ/RANDOM ; cd RANDOM ; python PRO.py
+pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pkg install git ; git clone --depth=1 https://github.com/Sagor-BCZ/WEB-INFO ; cd WEB-INFO ; bash WEB_in.sh
 ```
 ANY PROBLEM THEN SHARE THIS TOOLS OWNER 👇
  
